@@ -1,0 +1,6 @@
+{
+  "name": "Qessa",
+  "description": "منصة اجتماعية تفاعلية شاملة لقراءة وكتابة ونشر القصص والروايات، مع محرر نصوص متقدم، مكتبة شخصية، تفاعل مجتمعي ولوحة تحكم للإدارة والكتّاب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
